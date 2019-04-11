@@ -1,0 +1,16 @@
+
+{"id":"1", "name": "Luiz", "email":"vianafgluiz@gmail.com", "document":"104.222.111-85"} 
+{"id":"2", "name": "Geovanna", "email":"geovanna@gmail.com", "document":"104.222.222-85"}
+{"id":"3", "name": "Dogras", "email":"dogras@gmail.com", "document":"104.222.333-85"}
+{"id":"4", "name": "Luiza", "email":"luiza@gmail.com", "document":"104.222.444-85"}
+
+{"id":"1", "name":"Computador Dell", "price":"4200.00"}
+{"id":"2", "name":"Placa de Vídeo RTX2080", "price":"7800.00"}
+{"id":"3", "name":"Mouse Logitech", "price":"119.90"}
+{"id":"4", "name":"Teclado Razer", "price":"800.00"}
+
+{"id":1, "idClient":1, "idProduct":1, "quantity":1}
+{"id":2, "idClient":2, "idProduct":2, "quantity":2}
+{"id":3, "idClient":3, "idProduct":3, "quantity":3}
+{"id":4, "idClient":4, "idProduct":4, "quantity":4}
+
